@@ -19,6 +19,7 @@ public class Tester {
         System.out.println("welom to the pervert Circus , We have three kinds of tickets");
         Scanner scan = new Scanner(System.in);
 
+
         while (keepgo==1){
             System.out.println("-------------------------------------------");
             System.out.println("ID                   Name              Price" );
