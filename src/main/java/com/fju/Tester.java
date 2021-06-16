@@ -28,7 +28,7 @@ public class Tester {
                 System.out.println(ticket.id+"\t"+ticket.name+"\t"+ticket.price+"\t");
             }
             System.out.println("-------------------------------------------");
-            System.out.println("Please enter id of the ticket and then enter how many ticket you want in the second raw ");
+            System.out.println("Please enter id of the ticket and then  enter how many ticket you want in the second raw ");
             id = scan.nextInt();
             num = scan.nextInt();
             b++;
