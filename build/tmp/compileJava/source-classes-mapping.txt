@@ -1,2 +1,10 @@
+com/fju/Ticket.java
+ com.fju.Ticket
+com/fju/ticketkid.java
+ com.fju.ticketkid
+com/fju/ticketold.java
+ com.fju.ticketold
+com/fju/ticketadult.java
+ com.fju.ticketadult
 com/fju/Tester.java
  com.fju.Tester
